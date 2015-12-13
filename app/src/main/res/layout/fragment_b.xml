@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:background="#0000ff"
+    android:gravity="center_horizontal|center_vertical"
+    android:layout_height="100dp" tools:context="com.lm2a.backstackexperiments.FragmentA">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Fragment B"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"/>
+
+</LinearLayout>
